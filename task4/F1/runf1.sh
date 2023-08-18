@@ -1,0 +1,1 @@
+python tools/train.py Zihao-Configs/ZihaoDataset_UNet_20230712.py
